@@ -1,0 +1,4 @@
+nom du medicament: Nurofen; effets indesirables: nausées, faible coagulation
+nom du medicament: Efferalgan; effets indesirables: oreilles bouchées
+nom du medicament: tropozinan; effets indesirables: mal de gorge, nausées
+nom du medicament: ketoconazole; effets indesirables: demangeaisons 
