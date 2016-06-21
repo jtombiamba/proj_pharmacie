@@ -1,8 +1,13 @@
 #include <cstdio>
 #include <cstring>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+#include <vector>
+#include <algorithm>
+>>>>>>> ursuleBranch
 =======
 #include <vector>
 #include <algorithm>
