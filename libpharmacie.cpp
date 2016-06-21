@@ -2,7 +2,7 @@
 #include <cstdio>
 #include <cstring>
 #include <vector>
-
+#include <algorithm>
 int test(int a, char * b)
 {
 
