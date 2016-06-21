@@ -1,4 +1,25 @@
-nom du medicament: Nurofen; effets indesirables: nausées, faible coagulation
-nom du medicament: Efferalgan; effets indesirables: oreilles bouchées
-nom du medicament: tropozinan; effets indesirables: mal de gorge, nausées
-nom du medicament: ketoconazole; effets indesirables: demangeaisons 
+Seretide : effets indÃ©sirables notoires : candidose buccale, hypokaliÃ©mie, palpitations et sinusite.
+Dafalgan : effets indÃ©sirables notoires : choc anaphylactique, Ã©rythÃ¨me, leucopÃ©nie et neutropÃ©nie.
+Aspirine : effets indÃ©sirables notoires : choc anaphylactique, hyperpnÃ©e, vertiges et bronchospasme.
+Voltaren : effets indÃ©sirables notoires : vomissements, urticaire, cÃ©phalÃ©e, vertiges et somnolence.
+KÃ©toprofÃ¨ne : effets indÃ©sirables notoires : nausÃ©es, vertiges  et hyperkaliÃ©mie.
+Airomir : effets indÃ©sirables notoires : palpitations.
+Loratadine : effets indÃ©sirables notoires : vertiges, palpitations, et choc anaphylactique.
+Smecta : effets indÃ©sirables notoires : vomissements et flatulence.
+Bipreterax : effets indÃ©sirables notoires : cÃ©phalÃ©es, asthÃ©nie, vomissements et vertiges.
+BÃ©tanol : effets indÃ©sirables notoires : asthÃ©nie et insomnie.
+Cilest : effets indÃ©sirables notoires : coronaropathies et cÃ©phalÃ©es.
+Carbaglu : effets indÃ©sirables notoires : bradycardie, vomissements et fiÃ¨vres.
+PhÃ©nergan : effets indÃ©sirables notoires : vertiges, choc anaphylactique, thrombocytopÃ©nie et insomnie.
+Epinitril : effets indÃ©sirables notoires : hypotension et syncope.
+Lexomil : effets indÃ©sirables notoires : cÃ©phalÃ©es, ataxie, diplopie et asthÃ©nie.
+Tetagrip : effets indÃ©sirables notoires : Ã©rythÃ¨me, fiÃ¨vres, asthÃ©nie, dyspnÃ©e et cÃ©phalÃ©es.
+Riastrap : effets indÃ©sirables notoires : choc anaphylactique, dyspnÃ©e et embolie pulmonaire.
+Xanax : effets indÃ©sirables notoires : cÃ©phalÃ©es, ataxie, asthÃ©nie et diplopie.
+RÃ©actine : effets indÃ©sirables notoires : vertiges, cÃ©phalÃ©es, urticaire et choc anaphylactique.
+Eptativ : effets indÃ©sirables notoires : choc anaphylactique et urticaire.
+Loxen : effets indÃ©sirables notoires : cÃ©phalÃ©es, palpitations et tachycardie.
+Tiorfast : effets indÃ©sirables notoires : asthÃ©nie, fiÃ¨vres et cÃ©phalÃ©es.
+Xolair : effets indÃ©sirables notoires : choc anaphylactique, fiÃ¨vres, syncope et cÃ©phalÃ©es.
+TranxÃ¨ne : effets indÃ©sirables notoires : diplopie et asthÃ©nie.
+Epitomax : effets indÃ©sirables notoires : anÃ©mie, vertiges et acouphÃ¨nes.
