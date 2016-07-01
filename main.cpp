@@ -63,7 +63,6 @@ int main(int argc, char ** argv)
 		{
 		  ind2 = ind + 2;
 		  ind = in_line.find(", ", ind2);
-
 		  it2 = it->second.end();
 		  it->second.insert(it2, in_line.substr(ind2,ind-ind2));
 		}
